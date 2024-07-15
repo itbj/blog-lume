@@ -1,5 +1,9 @@
 ---
 title: The Guide to JavaScript - Introduction
+author:
+    name: hexagon
+    email: hexagon
+    url: https://hexagon.56k.guru
 title_short: Introduction
 part: 1
 priority: 1.0

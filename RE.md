@@ -1,8 +1,10 @@
-# Taoza's Blog
+# Hexagon's Blog
 
 ## Introduction
 
-Forked form Hexagon's code. Thanks a lot.  
+Welcome to the source code repository for my blog -
+[hexagon.56k.guru](https://hexagon.56k.guru), powered by Deno and Lume. Feel
+free to check out the code, contribute, or even guest blog!
 
 ## Getting Started
 
@@ -11,8 +13,8 @@ Make sure Deno is installed on your computer.
 Clone the repo:
 
 ```bash
-git clone https://github.com/itb/blog-lume.git
-cd blog-lume
+git clone https://github.com/Hexagon/blog.git
+cd blog
 ```
 
 To run the blog locally:

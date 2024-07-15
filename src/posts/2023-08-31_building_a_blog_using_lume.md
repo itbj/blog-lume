@@ -2,6 +2,11 @@
 layout: post.njk
 title: "Using Lume: A Static Site Generator for Deno"
 description: "A quick guide on building a blog with lume"
+author:
+    name: hexagon
+    email: hexagon
+    url: https://hexagon.56k.guru
+license: CC BY-SA 4.0
 tags:
  - javascript
  - yaml

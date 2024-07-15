@@ -2,6 +2,10 @@
 layout: post.njk
 title: "Guest Blogging using static site generators"
 description: A guide to guest blogging using static site generators as the plaform. Contribute to Hexagon.56k.Guru via GitHub Pull Requests.
+author:
+    name: hexagon
+    email: hexagon
+    url: https://hexagon.56k.guru
 tags:
   - open-source
   - blogging
