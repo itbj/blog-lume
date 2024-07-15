@@ -11,7 +11,7 @@ Make sure Deno is installed on your computer.
 Clone the repo:
 
 ```bash
-git clone https://github.com/itb/blog-lume.git
+git clone https://github.com/itbj/blog-lume.git
 cd blog-lume
 ```
 
