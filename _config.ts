@@ -30,7 +30,7 @@ const markdown = {};
 // Initiate site
 const site = lume({
   src: "./src",
-  location: new URL("https://hexagon.56k.guru"),
+  location: new URL("https://www.zhihu.com/people/taoli2017"),
 }, {
   markdown,
 });
