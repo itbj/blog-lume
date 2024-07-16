@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: "Use Python to read a CSS file"
-description: ""
+description: "Python File functions."
 author:
     name: 豆包
     email: doubao
@@ -16,6 +16,7 @@ tags:
 priority: 0.9
 intro: "Python to read a CSS file, then analys it, using re funciton."
 ---
+
 以下是一个使用 Python 编写的简单程序示例，用于读取 CSS 文件并进行一些基本的解释和说明：
 
 ```python
