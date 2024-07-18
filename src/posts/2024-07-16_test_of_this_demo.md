@@ -5,7 +5,7 @@ description: "描述文本."
 tags:
   - css
   - deno
-  - html5
+  - html
 priority: 1.0
 header: "/img/css_palette_og.webp"
 intro: "Testing."
