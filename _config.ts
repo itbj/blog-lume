@@ -32,7 +32,7 @@ const site = lume({
   src: "./src",
   location: new URL("https://www.zhihu.com/people/taoli2017"),
 }, {
-  markdown,
+ markdown ,
 });
 
 // Add plugins
